@@ -23,7 +23,7 @@ header("location: signin.php");
                         <a href="inc/find_frends.php"><button class="btn btn-default search-icon" name="search_user" type="submit">Voeg nieuwe vriend toe.</button></a>
                     </div>
                 </div>
-                <div clqss="left-chat">
+                <div class="left-chat">
                     <ul>
                         <php? include(inc/get_)
                     </ul>
